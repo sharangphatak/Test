@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import simps,trapz
+import os
 
 f =open('Trace.txt','r')
 x=[]
